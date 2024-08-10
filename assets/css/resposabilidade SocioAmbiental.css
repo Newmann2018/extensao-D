@@ -53,7 +53,7 @@ header {
 .nav-link {
     text-decoration: none;
     font-size: 2rem;
-    color: #fff;
+    color: #02010e;
     font-weight: 400;
 }
 
@@ -86,7 +86,7 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url(../img/deserto\ de\ atacama\ 05.jpg);
+    background-image: url(../img/deserto\ de\ atacama\ 04.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; 
@@ -96,7 +96,8 @@ h1{
     align-items: center;
     justify-content: center;
     padding: 5px;
-    color: #0c0e80;
+    color: #00010c;
+    font-size: 50px;
 } 
 img{
     width: 500px;
@@ -107,14 +108,16 @@ p{
    display: flex;
    align-items: center;
    justify-content: center;
-   margin-left: 15px;
+   margin: 15px;
    color:#fff;
+   font-size: 25px;
 }
 a{
     display: flex;
     align-items: center;
     justify-content: center;
     padding-bottom: 5px;
+    font-size: 25px;
 }
 footer {
     background-color: #228b22;
